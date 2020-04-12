@@ -1,0 +1,45 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    text-align: center;    
+}
+div{
+    margin: auto;
+    width: 70%;
+    padding: 3%;
+    border: solid 3px purple;
+    margin-bottom: 2%;
+    border-radius: 10px;
+    background-color: white;
+}
+h1{
+    font-size: 40px;
+    padding: 3%;
+}
+h2{
+    color: rgb(109, 109, 109);
+}
+input{
+    border-radius: 5px;
+    padding: 5px;
+    border: solid 1px rgb(206, 206, 206);
+}
+button{
+    padding: 10px 20px;
+    background-color: rgb(54, 187, 174);
+    border:  none;
+    border-radius: 5px;
+    color: white;
+    margin: 5px;
+}
+#p8 p{
+    text-align: left;
+}
+#p5 input{
+    margin: 15px auto;
+}
+select{
+    border-radius: 3px;
+    padding: 5px;
+    border: solid 1px rgb(206, 206, 206);
+}
